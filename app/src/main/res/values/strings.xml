@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Github Challenge</string>
+
+    <string name="error_starting_unexpected">Unexpected error requesting data, please retry</string>
+    <string name="error_generic">Something went wrong</string>
+    <string name="error_retry">Retry</string>
+
+    <string name="detail_language">Language:</string>
+    <string name="detail_Stars">Stars:</string>
+    <string name="details_forks">Forks:</string>
+    <string name="details_stars">Stars:</string>
+    <string name="details_description">Repository description:</string>
+    <string name="details_button">Access to the repo page</string>
+</resources>

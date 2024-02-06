@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="App">
+        <item name="android:textColor">@color/greyDark</item>
+    </style>
+
+    <style name="App.Heading1">
+        <item name="fontFamily">@font/proxima_nova_extra_bold</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:letterSpacing">-0.02</item>
+    </style>
+
+    <style name="App.Heading2">
+        <item name="fontFamily">@font/proxima_nova_extra_bold</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:letterSpacing">-0.01</item>
+    </style>
+
+    <style name="App.Headline">
+        <item name="fontFamily">@font/proxima_nova_extra_bold</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:letterSpacing">-0.01</item>
+    </style>
+
+    <style name="App.Body1">
+        <item name="fontFamily">@font/proxima_nova_regular</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="App.Body2">
+        <item name="fontFamily">@font/proxima_nova_regular</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="App.Body3">
+        <item name="fontFamily">@font/proxima_nova_regular</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="App.Body3.Grey">
+        <item name="android:textColor">@color/grey600</item>
+    </style>
+
+    <style name="App.Body4">
+        <item name="fontFamily">@font/proxima_nova_regular</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="App.Body4.Grey">
+        <item name="android:textColor">@color/grey600</item>
+    </style>
+
+    <style name="App.Body1SemiBold">
+        <item name="fontFamily">@font/proxima_nova_semi_bold</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:letterSpacing">-0.01</item>
+    </style>
+
+    <style name="App.Body1Bold">
+        <item name="fontFamily">@font/proxima_nova_bold</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:letterSpacing">-0.01</item>
+    </style>
+
+    <style name="App.Body2Bold">
+        <item name="fontFamily">@font/proxima_nova_bold</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="App.Body2SemiBold">
+        <item name="fontFamily">@font/proxima_nova_semi_bold</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="App.Caption">
+        <item name="fontFamily">@font/proxima_nova_regular</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:letterSpacing">-0.01</item>
+    </style>
+
+    <style name="App.Label1">
+        <item name="fontFamily">@font/proxima_nova_semi_bold</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">-0.01</item>
+    </style>
+
+    <style name="App.Label2">
+        <item name="fontFamily">@font/proxima_nova_semi_bold</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:letterSpacing">-0.01</item>
+    </style>
+
+    <style name="App.Capitalized">
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="App.Capitalized.Heading2Caps">
+        <item name="fontFamily">@font/proxima_nova_extra_bold</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:letterSpacing">-0.01</item>
+    </style>
+
+    <style name="App.Capitalized.Heading3Caps">
+        <item name="fontFamily">@font/proxima_nova_extra_bold</item>
+        <item name="android:textColor">@color/grey800</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="App.Capitalized.Button1">
+        <item name="fontFamily">@font/proxima_nova_extra_bold</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0.03</item>
+    </style>
+
+    <style name="App.Capitalized.Button2">
+        <item name="fontFamily">@font/proxima_nova_extra_bold</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">0.03</item>
+    </style>
+
+    <style name="App.Capitalized.Body1Caps">
+        <item name="fontFamily">@font/proxima_nova_extra_bold</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+
+</resources>
